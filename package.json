@@ -1,0 +1,26 @@
+{
+  "name": "gestioninventarios",
+  "version": "1.0.0",
+  "description": "Desarrollo de una pequeña aplicación en Node.js que simula un sistema de gestión de inventarios, donde se almacenan productos (como nombre, precio, cantidad, etc.) en archivos JSON. Se puede agregar, leer, modificar y eliminar productos sin utilizar base de datos, solo archivos de texto plano.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IJaqueP/GestionInventarios.git"
+  },
+  "keywords": [
+    "Inventario",
+    "Express",
+    "Node.js",
+    "JSON",
+    "fs"
+  ],
+  "author": "Iván Jaque Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IJaqueP/GestionInventarios/issues"
+  },
+  "homepage": "https://github.com/IJaqueP/GestionInventarios#readme"
+}
